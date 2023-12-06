@@ -1,4 +1,4 @@
-// The program input for nrm/src/main.leo
+// The program input for arra/src/main.leo
 [mint]
 balance: u32 = 100u32;
 
