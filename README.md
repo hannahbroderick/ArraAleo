@@ -1,6 +1,6 @@
-# nrm_token.aleo
+# arra_token.aleo
 
-Basic project to test [Aleo](https://aleo.org/)
+ARRA token to test [Aleo](https://aleo.org/)
 ## Build Guide
 
 To compile this Aleo program, run:
