@@ -1,2 +1,2 @@
 # ArraAleo
-Arra + Aleo
+ARRA token on Aleo  for testing purposes
