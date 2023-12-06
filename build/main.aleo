@@ -1,4 +1,4 @@
-program nrm_token.aleo;
+program arra_token.aleo;
 
 record Token:
     owner as address.private;
