@@ -3,7 +3,7 @@
 balance: u32 = 100u32;
 
 [transfer]
-receiver: address = aleo1zpsr2qlhxwarg8j3tjtv4rusd2muld7aj5fzrt8dvqz263n6xgqqe9ps3j;
+receiver: address = aleo1g64khdvelnrhewlucyzqftycys2jsx8kl8x798n6dc59hd5as58sum3y95;
 amount: u32 = 10u32;
 input: Token = Token {
   owner: aleo1yaz7ckkmlz2fgsm27lkzmqjx55ec6320rzetffd3udnye7rexsysx0jglz,
